@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/Daily-Bread/static/css/main.d8d0d312.css",
+    "main.js": "/Daily-Bread/static/js/main.f0f319f4.js",
+    "static/js/787.85003be1.chunk.js": "/Daily-Bread/static/js/787.85003be1.chunk.js",
+    "static/media/bowl.jpg": "/Daily-Bread/static/media/bowl.6507395ce29d44d83ba4.jpg",
+    "static/media/herobody.jpg": "/Daily-Bread/static/media/herobody.43ad28bc74cde17f58ca.jpg",
+    "static/media/eat.jpg": "/Daily-Bread/static/media/eat.31a6c78cbc5d0d560bf1.jpg",
+    "static/media/dessert.jpg": "/Daily-Bread/static/media/dessert.9ef3b052074ed68dc124.jpg",
+    "index.html": "/Daily-Bread/index.html",
+    "main.d8d0d312.css.map": "/Daily-Bread/static/css/main.d8d0d312.css.map",
+    "main.f0f319f4.js.map": "/Daily-Bread/static/js/main.f0f319f4.js.map",
+    "787.85003be1.chunk.js.map": "/Daily-Bread/static/js/787.85003be1.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d8d0d312.css",
+    "static/js/main.f0f319f4.js"
+  ]
+}
